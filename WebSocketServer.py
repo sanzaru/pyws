@@ -207,4 +207,4 @@ class WebSocketServer(object):
 	# NOTE: Override this funtion in the parent class to make it useful
 	def handleClient(self, sock):
 		return
-	
+
