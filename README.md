@@ -7,6 +7,8 @@ Usage:
 ------
 The WebSocketServer class is intended to be extended by a parent class and the handleClient() function should get an override there to make the class really useful.
 
+This class can be used in Python version 2 and 3 as well.
+
 A basic implementation would look like this: 
 
 ```python
