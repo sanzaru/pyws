@@ -7,7 +7,6 @@
 # Verion: 0.0.1
 #
 
-
 import sys, socket, select, re, hashlib, base64
 from socket import *
 
