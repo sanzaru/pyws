@@ -34,6 +34,8 @@ demo = Demo(12345)
 demo.run()
 ```
 
+Save this file to demo.py and run it with: python demo.py
+
 This would simply open a websocket server waiting for connections and printing data received to the console. Of course you have to add more logic to the class to make it useful, but that's up to you. ;)
 
 To learn more on how to connect to a websocket server read the tutorial at:
