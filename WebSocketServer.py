@@ -19,7 +19,6 @@ OPTYPE_CLOS = 0x08 # Close package
 OPTYPE_PING = 0x09 # Ping package
 OPTYPE_PONG = 0x0A # Pong package
 
-
 #
 # WebSocketServer class
 class WebSocketServer(object):
